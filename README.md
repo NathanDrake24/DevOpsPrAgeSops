@@ -127,7 +127,8 @@ sops --version
 ### Этап 7: Шифрование файла с SOPS
 
 
-<img width="1046" height="260" alt="image" src="https://github.com/user-attachments/assets/68e58897-e2d4-4c23-af56-dd63ca79caf3" />
+<img width="1429" height="250" alt="image" src="https://github.com/user-attachments/assets/792c26a5-00b4-41f4-866f-b022b7f66de6" />
+
 
 ### Этап 8: Просмотр зашифрованного файла
 
