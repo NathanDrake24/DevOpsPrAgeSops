@@ -106,7 +106,8 @@ sops --version
 
 ### Этап 3: Генерация ключей Age
 
-<img width="720" height="146" alt="image" src="https://github.com/user-attachments/assets/d16304d3-1aee-48cf-9674-356bbde35d34" />
+<img width="1438" height="288" alt="image" src="https://github.com/user-attachments/assets/5265309a-9fd9-4d6e-a59c-cdb4ff6132f1" />
+
 
 ### Этап 4: Создание конфигурации SOPS
 
