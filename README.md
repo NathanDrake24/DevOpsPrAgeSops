@@ -137,7 +137,8 @@ sops --version
 
 ### Этап 9: Подготовка к расшифровке
 
-<img width="730" height="176" alt="image" src="https://github.com/user-attachments/assets/4f5e97b5-aaea-4781-968a-4524ad7beef7" />
+<img width="1462" height="348" alt="image" src="https://github.com/user-attachments/assets/eecc0c80-5b73-4810-a148-389e5279c7e5" />
+
 
 
 ### Этап 10: Расшифровка и просмотр содержимого
